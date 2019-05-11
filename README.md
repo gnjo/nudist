@@ -7,7 +7,9 @@ comment = type gray
 branket = #f26
 ```
 ```css
-font-family:"consolas",monospace;
-font-size:11px;
-line-height:1.3
+.CodeMirror.cm-s-nudist{
+ font:13px/1.3 'consolas',monospace;
+ background-color:black;
+ color:white;
+}
 ```
